@@ -1,6 +1,8 @@
 # Vasos Koupparis
 ⭐ Hi there, I am Vasos | A Full-stack Web Developer | Live in Cyprus 
 
+I do end-to-end software development, using latest technologies to deliver innovative and modern capabilities on our cloud product. I focus on feature development, quality testing, security, product reliability and maintenance releases.
+
 
 ## Git in touch
 <ul>
