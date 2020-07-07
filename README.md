@@ -1,4 +1,12 @@
-### Hi there 👋
+# Vasos Koupparis
+⭐ Hi there, I am Vasos | A Full-stack Web Developer | Live in Cyprus 
+
+
+## Git in touch
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/vk00050</li>
+  <li>Website: https://www.vasos-koupparis.com/</li>
+ </ul>
 
 <!--
 **vas1468/vas1468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
