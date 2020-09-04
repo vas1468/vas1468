@@ -3,6 +3,17 @@
 
 I do end-to-end software development, using latest technologies to deliver innovative and modern capabilities on our cloud product. I focus on feature development, quality testing, security, product reliability and maintenance releases.
 
+## Services
+
+### WEB DESIGN & DEVELOPMENT
+From simple to complex, I focus on a full range of website services catered to client’s specific needs. Any website’s homepage is the first virtual glimpse that a customer sees.
+
+### HOSTING SERVICES
+A reliable and secure hosting and domain provider is essential for the right function of your website. My hosting service on AWS ensures security, and high speed of your website
+
+### MAINTENANCE & SUPPORT SERVICES
+Long gone are the days of “Set it and Forget it.” The Internet is no longer a static place. Having a website means maintenance.
+At the very least, you’ll need to be sure your site is secure, is being backed up, and your software is up to date. I take care all of that for complete peace-of-mind.
 
 ## Git in touch
 <ul>
