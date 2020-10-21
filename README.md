@@ -11,10 +11,11 @@
 I do end-to-end software development, using latest technologies to deliver innovative and modern capabilities on our cloud product. I focus on feature development, quality testing, security, product reliability and maintenance releases.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -25,6 +26,7 @@ I do end-to-end software development, using latest technologies to deliver innov
 
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AdobeCreativeCloud-informational?style=flat&logo=adobe-creative-cloud&logoColor=white&color=2bbc8a)
 
 ## Services
 
