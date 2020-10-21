@@ -5,8 +5,8 @@
 </p>
 
 <h2 align="center">Hello there! My name is Vasos Koupparis. 👋🤓</h2>
-
 <p align='center'>A Full-stack Web Developer</p>
+<p align='center'>https://www.vasos-koupparis.com/</p>
 
 I do end-to-end software development, using latest technologies to deliver innovative and modern capabilities on our cloud product. I focus on feature development, quality testing, security, product reliability and maintenance releases.
 
@@ -22,14 +22,10 @@ A reliable and secure hosting and domain provider is essential for the right fun
 Long gone are the days of “Set it and Forget it.” The Internet is no longer a static place. Having a website means maintenance.
 At the very least, you’ll need to be sure your site is secure, is being backed up, and your software is up to date. I take care all of that for complete peace-of-mind.
 
-## Git in touch
-<ul>
-  <li>Linkedin: https://www.linkedin.com/in/vk00050</li>
-  <li>Website: https://www.vasos-koupparis.com/</li>
- </ul>
-
-![Vaso's Github Stats](https://github-readme-stats.vercel.app/api?username=vas1468&show_icons=true&theme=radical)
 <!--
+![Vaso's Github Stats](https://github-readme-stats.vercel.app/api?username=vas1468&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vas1468)
+
 **vas1468/vas1468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
