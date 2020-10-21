@@ -1,5 +1,12 @@
-# Vasos Koupparis
-⭐ Hi there, I am Vasos | A Full-stack Web Developer | Live in Cyprus 
+<p align='center'>
+<a href="https://twitter.com/vas1468"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vasilis_koupparis/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vk00050/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+<h2 align="center">Hello there! My name is Vasos Koupparis. 👋🤓</h2>
+
+<p align='center'>A Full-stack Web Developer</p>
 
 I do end-to-end software development, using latest technologies to deliver innovative and modern capabilities on our cloud product. I focus on feature development, quality testing, security, product reliability and maintenance releases.
 
@@ -21,6 +28,7 @@ At the very least, you’ll need to be sure your site is secure, is being backed
   <li>Website: https://www.vasos-koupparis.com/</li>
  </ul>
 
+![Vaso's Github Stats](https://github-readme-stats.vercel.app/api?username=vas1468&show_icons=true&theme=radical)
 <!--
 **vas1468/vas1468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
