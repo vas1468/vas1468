@@ -10,6 +10,8 @@
 
 I do end-to-end software development, using latest technologies to deliver innovative and modern capabilities on our cloud product. I focus on feature development, quality testing, security, product reliability and maintenance releases.
 
+On average I commit 2.7 times per day the last 5 years!
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
