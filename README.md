@@ -37,10 +37,14 @@ From simple to complex, I focus on a full range of website services catered to c
 
 ### HOSTING SERVICES
 A reliable and secure hosting and domain provider is essential for the right function of your website. My hosting service on AWS ensures security, and high speed of your website
+<img src="https://media-exp1.licdn.com/dms/image/C4E2DAQH64oJzpMOQew/profile-treasury-image-shrink_1280_1280/0/1610659948299?e=1611957600&v=beta&t=c4DU7HeeROoGVIid30UUHt2Fwegg2IL0DQ542GfZ6rY" />
 
 ### MAINTENANCE & SUPPORT SERVICES
 Long gone are the days of “Set it and Forget it.” The Internet is no longer a static place. Having a website means maintenance.
 At the very least, you’ll need to be sure your site is secure, is being backed up, and your software is up to date. I take care all of that for complete peace-of-mind.
+
+
+
 
 <!--
 
